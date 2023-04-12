@@ -115,6 +115,3 @@ def get_document_db_bot_completion(prompt, retries=0):
         return get_document_db_bot_completion(prompt, retries+1)
      else:
         raise e
-     
-result = get_document_db_bot_completion("What is Trustbit's expertise?")
-print(result)
