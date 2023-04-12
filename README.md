@@ -3,15 +3,17 @@
 This repository contains a showcase of how current AI
 technologies can be used in usual business applications.
 
-![Chatbots](screenshot1.png | width=100)
-![Text Analysis](screenshot2.png | width=100)
-![Audio Transcripts](screenshot3.png | width=100)
-
 ## Demo App
 
 In the folder [demo_app](demo_app), you can find a traditional 
 frontend/backend application showcasing some out-of-the-box 
 AI applications based on OpenAI's [ChatGPT 3.5](https://openai.com/blog/chatgpt).
+
+<img alt="Chatbots" src="screenshot1.png" width="600"/>
+
+<img alt="Text Analysis" src="screenshot2.png" width="600"/>
+
+<img alt="Audio Transcripts" src="screenshot3.png" width="600"/>
 
 ## Transcribe
 
