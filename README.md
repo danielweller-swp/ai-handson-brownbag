@@ -3,6 +3,10 @@
 This repository contains a showcase of how current AI
 technologies can be used in usual business applications.
 
+![Chatbots](screenshot1.png | width=100)
+![Text Analysis](screenshot2.png | width=100)
+![Audio Transcripts](screenshot3.png | width=100)
+
 ## Demo App
 
 In the folder [demo_app](demo_app), you can find a traditional 
